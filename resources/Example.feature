@@ -6,4 +6,4 @@ Background:
 @TestExample	
 Scenario: scenario description
 	    Given Type WIN
-	    When Input "skype"
+	    When Input "word"
